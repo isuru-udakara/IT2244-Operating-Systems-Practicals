@@ -3,3 +3,6 @@
 :: Print user's age
 
 @echo off
+echo Username: %USERNAME%
+
+pause
