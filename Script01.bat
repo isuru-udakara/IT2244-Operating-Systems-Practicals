@@ -4,5 +4,7 @@
 
 @echo off
 echo Username: %USERNAME%
+echo Windows Version: 
+VER
 
 pause
