@@ -1,6 +1,6 @@
 # Day 02 Practical | 14.03.2025
 
-## Batch Script 
+## Batch Script - Script01.bat
 
 ### Print current logged-in username
 ![username](https://github.com/user-attachments/assets/6bfb2793-9b6f-4f8a-a6f8-4daf0bab9bd5)
