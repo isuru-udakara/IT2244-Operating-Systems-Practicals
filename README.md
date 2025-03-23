@@ -14,3 +14,5 @@
 ### Print Current Date 
 ![date](https://github.com/user-attachments/assets/f1752cdc-0c8c-4d9c-ac55-a38c20b4928f)
 
+### Ask user to enter age and print age
+![age](https://github.com/user-attachments/assets/d328cc67-4e2e-46b0-9fc6-a1c011ba75d3)
