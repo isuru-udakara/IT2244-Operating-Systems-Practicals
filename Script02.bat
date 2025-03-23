@@ -8,4 +8,6 @@ set Dir2= Documents
 set Dir3= Videos 
 set Dir4= Articals
 
+cd LocalDisk
+
 pause
