@@ -3,4 +3,9 @@
 mkdir LocalDisk
 echo Folder created. 
 
+set Dir1= Download 
+set Dir2= Documents 
+set Dir3= Videos 
+set Dir4= Articals
+
 pause
