@@ -10,3 +10,7 @@
 
 ### Print Current Time 
 ![time](https://github.com/user-attachments/assets/2f153969-4110-4dc3-ab49-75daa6eb78c6)
+
+### Print Current Date 
+![date](https://github.com/user-attachments/assets/f1752cdc-0c8c-4d9c-ac55-a38c20b4928f)
+
