@@ -9,4 +9,6 @@ VER
 echo Current Time: %TIME%
 echo Current Date: %DATE%
 
+set /p Age= How old are you?
+
 pause
