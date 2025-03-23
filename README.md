@@ -19,4 +19,9 @@
 
 ## Batch Script - Script02.bat
 
-### Created folder 'LocalDisk'
+### Created folder _LocalDisk_
+![folder created](https://github.com/user-attachments/assets/eca7f2a9-05f4-4330-bb94-9e7f60338ab1)
+
+### Created multiple folders changed directory using *cd*
+![folders](https://github.com/user-attachments/assets/d7832324-cd84-4e7d-bb3a-22e1952ab032)
+
