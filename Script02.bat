@@ -10,4 +10,9 @@ set Dir4= Articals
 
 cd LocalDisk
 
+mkdir %Dir1% 
+mkdir %Dir2% 
+mkdir %Dir3%
+mkdir %Dir4%
+
 pause
