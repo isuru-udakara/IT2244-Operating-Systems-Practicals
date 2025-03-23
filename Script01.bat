@@ -7,5 +7,6 @@ echo Username: %USERNAME%
 echo Windows Version: 
 VER
 echo Current Time: %TIME%
+echo Current Date: %DATE%
 
 pause
