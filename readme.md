@@ -1,4 +1,4 @@
-| Codes | Expected Output |
+| File | Expected Output |
 |-------|--------|
 |['abc.txt'](./Codes/abc.txt)|![abc.png](./Output/abc.png)|
 |['datetime.txt'](./Codes/datetime.txt)|![datetime.png](./Output/datetime.png)|
