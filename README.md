@@ -23,11 +23,3 @@ exercises covers basic to intermediate operations
 
 ## Q4: Print Pattern Using Nested Loop
 **Objective:** Display a triangle pattern using nested loops.
-
-![image](https://github.com/user-attachments/assets/87911ff4-8d65-49e9-8b23-615ece37002e)
-
-
----
-## Author 
-- 2021ICT14
-- University Of Vauniya
